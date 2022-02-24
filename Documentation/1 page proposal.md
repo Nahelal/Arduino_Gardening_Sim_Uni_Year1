@@ -12,9 +12,11 @@ There will be three small controllers in order to play my game, these being the 
 
 ### User stories
 + Create programs for the input sensors and their interaction with the game interface which will be between the Arduino and Uduino in unity.
-+ create Arduino circuit connecting all three inputs for the controllers together
-+ Make components such as the planter, which will be holding the Arduino when the game controller is complete
-+ 
++ Work on making the 2D game interface in unity.
++ Work on creating the Arduino circuit connecting all three inputs for the controllers together.
++ Practice 3d modelling certain components that will need to be 3D printed for my game controller.
++ Print components such as the planter, which will be holding the Arduino when the game controller is complete.
++ Find people to playtest the controller to see if there are any problems or bugs i haavent found or considered.
 
 
 ### Key Components
