@@ -11,7 +11,7 @@ There will be three small controllers in order to play my game, these being the 
 
 
 ### User stories
-+ Create programs for the input sensors and their interaction with the game interface which will be between the Arduino and Uduino in unity.
++ Create script for the input sensors and their interaction with the game interface which will be between the Arduino and Uduino in unity.
 + Work on making the 2D game interface in unity.
 + Work on creating the Arduino circuit connecting all three inputs for the controllers together.
 + Practice 3d modelling certain components that will need to be 3D printed for my game controller.
