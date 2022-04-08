@@ -2,7 +2,7 @@
 
 //button push input
 
-const int button_input = 7;      
+const int button_input = 6;      
 
 int old_state = LOW;  
 int new_state;                
