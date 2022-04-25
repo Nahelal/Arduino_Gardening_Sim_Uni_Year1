@@ -98,8 +98,15 @@ public class UduinoController : MonoBehaviour
             //choice is reset to zero for next iteration of while loop, and +1 is added to player score
             playerInp = 0;
 
+            //GameObject WateringCanBlack;
+            //WateringCanBlack.SetActive(true);
 
-         
+            //GameObject SunBlack;
+            //SunBlack.SetActive(true);
+
+            //GameObject BottleBlack;
+            //BottleBlack.SetActive(true);
+
             myObject.GetComponent<Score>();
             Score.totalScore += 1;
 
